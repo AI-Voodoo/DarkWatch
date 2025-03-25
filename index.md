@@ -1,9 +1,4 @@
----
-layout: home
-title: "Introducing DarkWatch: AI Surveillance Unveiled"
-date: 2025-03-25
-categories: [AI, Surveillance, Security]
----
+
 
 <!-- Include custom CSS and Google Font for a hacker vibe -->
 <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
@@ -23,6 +18,8 @@ categories: [AI, Surveillance, Security]
       overflow-x: auto;
   }
 </style>
+
+# DarkWatch
 
 Imagine an intelligence that never sleeps, tirelessly analyzing, observing, and predicting human behavior. Today, we introduce **DarkWatch**, a proof-of-concept designed to demonstrate the chilling capabilities of AI-driven surveillance.
 
