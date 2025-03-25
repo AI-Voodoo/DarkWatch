@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title: "Introducing DarkWatch: AI Surveillance Unveiled"
 date: 2025-03-25
 categories: [AI, Surveillance, Security]
