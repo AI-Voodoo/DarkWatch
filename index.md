@@ -23,3 +23,12 @@ Follow our journey as we expose the hidden power behind DarkWatch and challenge 
 
 Welcome to the future. Be warned—it's always watching.
 
+<img src="assets/repo.png" alt="Placeholder" style="border: 2px solid #0f0;">
+
+pyhton```
+# Example Python code
+def greet():
+    print("Hello, DarkWatch!")
+
+greet()
+```
