@@ -1,17 +1,7 @@
 
 
 <!-- Include custom CSS and Google Font for a hacker vibe -->
-<link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
-<style>
-  body {
-      background-color: #000;
-      color: #0f0;
-      font-family: 'VT323', monospace;
-      margin: 0;
-      padding: 20px;
-  }
 
-</style>
 
 # DarkWatch
 
