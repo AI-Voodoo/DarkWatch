@@ -1,0 +1,11 @@
+title: DarkWatch
+description: A PoC demonstrating AI surveillance capabilities.
+theme: hacker
+baseurl: ""
+url: "https://ai-voodoo.github.io/DarkWatch/"
+author: Jeff Sims
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
