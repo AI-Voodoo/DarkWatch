@@ -10,13 +10,7 @@
       margin: 0;
       padding: 20px;
   }
-  pre, code {
-      background-color: #111;
-      color: #0f0;
-      padding: 10px;
-      border-radius: 4px;
-      overflow-x: auto;
-  }
+
 </style>
 
 # DarkWatch
