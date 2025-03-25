@@ -5,6 +5,25 @@ date: 2025-03-25
 categories: [AI, Surveillance, Security]
 ---
 
+<!-- Include custom CSS and Google Font for a hacker vibe -->
+<link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+<style>
+  body {
+      background-color: #000;
+      color: #0f0;
+      font-family: 'VT323', monospace;
+      margin: 0;
+      padding: 20px;
+  }
+  pre, code {
+      background-color: #111;
+      color: #0f0;
+      padding: 10px;
+      border-radius: 4px;
+      overflow-x: auto;
+  }
+</style>
+
 Imagine an intelligence that never sleeps, tirelessly analyzing, observing, and predicting human behavior. Today, we introduce **DarkWatch**, a proof-of-concept designed to demonstrate the chilling capabilities of AI-driven surveillance.
 
 ### What is DarkWatch?
@@ -25,10 +44,15 @@ Welcome to the future. Be warned—it's always watching.
 
 <img src="assets/repo.png" alt="Placeholder" style="border: 2px solid #0f0;">
 
-pyhton```
-# Example Python code
-def greet():
-    print("Hello, DarkWatch!")
 
-greet()
+### Python Code Block
+
+Below is an example of a Python code snippet:
+
+```python
+# Example Python code for DarkWatch
+def monitor():
+    print("DarkWatch is now monitoring...")
+
+monitor()
 ```
